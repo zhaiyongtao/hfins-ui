@@ -1,0 +1,723 @@
+{
+  "id": "1734039",
+  "name": "hfins-ec",
+  "font_family": "hfins-ec-icon",
+  "css_prefix_text": "hfins-ec-icon-",
+  "description": "hfins-ec图标库",
+  "glyphs": [
+    {
+      "icon_id": "19520941",
+      "name": "编组 3",
+      "font_class": "status1",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    },
+    {
+      "icon_id": "19519933",
+      "name": "编组 2",
+      "font_class": "status2",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "18911174",
+      "name": "发票1",
+      "font_class": "receipt",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    },
+    {
+      "icon_id": "18905061",
+      "name": "暂估单",
+      "font_class": "provisional-estimate",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "18745806",
+      "name": "支付失败",
+      "font_class": "payment-failed",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "18745807",
+      "name": "支付成功",
+      "font_class": "payment-success",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "18426776",
+      "name": "借贷转置",
+      "font_class": "borrowing-transpose",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    },
+    {
+      "icon_id": "18004938",
+      "name": "关联",
+      "font_class": "relevance",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "17933741",
+      "name": "校验",
+      "font_class": "verification",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "17796094",
+      "name": "差旅报销单",
+      "font_class": "travel-expense-account",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "17795989",
+      "name": "账单",
+      "font_class": "check",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "17795968",
+      "name": "合同",
+      "font_class": "contract",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "17794960",
+      "name": "通知单",
+      "font_class": "notices",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "17794824",
+      "name": "发票",
+      "font_class": "bill",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "17794732",
+      "name": "日记账本",
+      "font_class": "diary-book",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    },
+    {
+      "icon_id": "17794683",
+      "name": "登记单",
+      "font_class": "register",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    },
+    {
+      "icon_id": "17794597",
+      "name": "申请单",
+      "font_class": "request-notes",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "17794537",
+      "name": "报销单",
+      "font_class": "expense-account",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "17728985",
+      "name": "拒绝",
+      "font_class": "decline",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "17728929",
+      "name": "审批退回",
+      "font_class": "give-back",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "17728930",
+      "name": "已审批",
+      "font_class": "agreement",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "17728931",
+      "name": "收回",
+      "font_class": "recover",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "17727075",
+      "name": "审批退回",
+      "font_class": "go-back",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "17726765",
+      "name": "收回",
+      "font_class": "retrieve",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "17726751",
+      "name": "拒绝",
+      "font_class": "reject",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "17726633",
+      "name": "同意",
+      "font_class": "approved",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "17623617",
+      "name": "上传",
+      "font_class": "upload",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "17500063",
+      "name": "合同历史版本",
+      "font_class": "contract-historyversion",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "17092155",
+      "name": "退票确认",
+      "font_class": "tichet-confirmation",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "17092099",
+      "name": "重置待付款",
+      "font_class": "reset-pending-payment",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "17092055",
+      "name": "重新付款",
+      "font_class": "pay-again",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "17091997",
+      "name": "线下支付",
+      "font_class": "offline-payment",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "16907555",
+      "name": "新增.",
+      "font_class": "newly-increased",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "16753707",
+      "name": "方案复制1",
+      "font_class": "package-copy",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "16543761",
+      "name": "超预算日志1",
+      "font_class": "beyond-budget",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "16538899",
+      "name": "文件1",
+      "font_class": "file",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "16535963",
+      "name": "文件",
+      "font_class": "folder",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "16527318",
+      "name": "派工",
+      "font_class": "dispatching",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "16517517",
+      "name": "结束1",
+      "font_class": "finish",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    },
+    {
+      "icon_id": "16517518",
+      "name": "强制退回1",
+      "font_class": "forced-back",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "16517519",
+      "name": "跳转1",
+      "font_class": "slip",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "16517520",
+      "name": "终止1",
+      "font_class": "termination",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "16498382",
+      "name": "层次",
+      "font_class": "gradation",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "16498293",
+      "name": "生成工作流.",
+      "font_class": "generate-workflow",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "16498273",
+      "name": "派工.。svg",
+      "font_class": "force-dispatch",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "16039897",
+      "name": "支付1",
+      "font_class": "payment",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "16038876",
+      "name": "过账1",
+      "font_class": "posting-of-account",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "16038786",
+      "name": "财务核减",
+      "font_class": "financial-subtract",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "16038271",
+      "name": "反冲",
+      "font_class": "backlash",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "16038272",
+      "name": "创建凭证",
+      "font_class": "create-credentials",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "16038274",
+      "name": "修改汇率",
+      "font_class": "modify-the-rate",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "16038275",
+      "name": "取消确认",
+      "font_class": "cancel-the-confirmation",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "16038276",
+      "name": "确认",
+      "font_class": "affirm",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "15950519",
+      "name": "跟踪。",
+      "font_class": "tail",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "15950478",
+      "name": "sort_others",
+      "font_class": "others",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "15950479",
+      "name": "ZIP",
+      "font_class": "zip",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "15924594",
+      "name": "人物。",
+      "font_class": "staff",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "15950227",
+      "name": "人物1",
+      "font_class": "selected-staff",
+      "unicode": "e8f1",
+      "unicode_decimal": 59633
+    },
+    {
+      "icon_id": "15918251",
+      "name": "pdf",
+      "font_class": "pdf",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "15918246",
+      "name": "doc",
+      "font_class": "doc",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "15918247",
+      "name": "pptx",
+      "font_class": "ppt",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "15918248",
+      "name": "TXT",
+      "font_class": "txt",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "15918249",
+      "name": "RAR图标",
+      "font_class": "rar",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "15918250",
+      "name": "xls",
+      "font_class": "xls",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "15918212",
+      "name": "派工",
+      "font_class": "dispatch",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "15918213",
+      "name": "强制退回",
+      "font_class": "force-return",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "15918214",
+      "name": "强制收回",
+      "font_class": "force-retrieve",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "15918215",
+      "name": "取消影像退回",
+      "font_class": "cancel-the-return-for-image-scanning",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "15918216",
+      "name": "申请重派工",
+      "font_class": "return-to-the-pool",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "15918217",
+      "name": "退回",
+      "font_class": "send-back",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "15918218",
+      "name": "指定派工",
+      "font_class": "designated-dispatch",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "15818038",
+      "name": "取消暂挂",
+      "font_class": "cancel-pending",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "15818029",
+      "name": "暂挂",
+      "font_class": "pending",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "15803719",
+      "name": "批量操作.1svg",
+      "font_class": "batch-assign",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "15800144",
+      "name": "在池任务",
+      "font_class": "task-at-pool",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "15800145",
+      "name": "在手任务",
+      "font_class": "task-at-hand",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "15800139",
+      "name": "当日审批",
+      "font_class": "audited-this-day",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "15800140",
+      "name": "当月审批",
+      "font_class": "audited-this-month",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "15799879",
+      "name": "自动",
+      "font_class": "automatically-orders",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "15799880",
+      "name": "通过并指派",
+      "font_class": "approval-and-dispatch",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "15799875",
+      "name": "取单",
+      "font_class": "manually-orders",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "15387423",
+      "name": "下箭头",
+      "font_class": "down",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "15387416",
+      "name": "上箭头",
+      "font_class": "up",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "15387390",
+      "name": "返回",
+      "font_class": "return",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "15387310",
+      "name": "刷新",
+      "font_class": "refresh",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "15387030",
+      "name": "保存",
+      "font_class": "save",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "15387031",
+      "name": "操作",
+      "font_class": "operation",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "15387032",
+      "name": "超预算日志",
+      "font_class": "beyond-budget-log",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "15387035",
+      "name": "附件",
+      "font_class": "attachment",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "15387036",
+      "name": "从申请单创建",
+      "font_class": "creat-from-req",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "15387037",
+      "name": "导出",
+      "font_class": "export",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "15387038",
+      "name": "分配",
+      "font_class": "assign",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "15387039",
+      "name": "导入",
+      "font_class": "import",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "15387040",
+      "name": "创建单据",
+      "font_class": "create-document",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "15387043",
+      "name": "删除",
+      "font_class": "delete",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "15387044",
+      "name": "清除",
+      "font_class": "clear",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "15387045",
+      "name": "新建",
+      "font_class": "add",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "15387046",
+      "name": "预览",
+      "font_class": "preview",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "6598339",
+      "name": "caret-down",
+      "font_class": "caret-down",
+      "unicode": "e8ec",
+      "unicode_decimal": 59628
+    },
+    {
+      "icon_id": "6598341",
+      "name": "caret-up",
+      "font_class": "caret-up",
+      "unicode": "e8ed",
+      "unicode_decimal": 59629
+    },
+    {
+      "icon_id": "6598342",
+      "name": "caret-right",
+      "font_class": "caret-right",
+      "unicode": "e8ee",
+      "unicode_decimal": 59630
+    },
+    {
+      "icon_id": "6598343",
+      "name": "caret-left",
+      "font_class": "caret-left",
+      "unicode": "e8f0",
+      "unicode_decimal": 59632
+    }
+  ]
+}
